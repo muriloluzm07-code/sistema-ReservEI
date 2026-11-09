@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Visão Geral do Projeto
+##  Visão Geral do Projeto
 
 O **Reservei** nasceu da necessidade real de organização de reservas de mesas em restaurantes. O objetivo principal foi mapear as dores dos clientes e gestores, transformando requisitos complexos em uma interface simples, acessível e intuitiva.
 
@@ -12,7 +12,7 @@ Este repositório armazena a documentação técnica, artefatos de pesquisa e os
 
 ---
 
-## 🗺️ Mapeamento & Pesquisa (Miro)
+## Mapeamento & Pesquisa (Miro)
 
 Toda a fase de ideação, levantamento de requisitos e estrutura do produto foi documentada no Miro, contemplando:
 
@@ -47,7 +47,7 @@ A interface visual foi desenvolvida priorizando a jornada do usuário na realiza
 
 ## 👥 Integrantes do Projeto
 
-- **Murilo Araújo** — *Engenharia de Software (UDF)* — [GitHub](https://github.com/muriloluzm07-code)
+- Murilo, Kawe, Daniel, Cadu, Vitor e Douglas.
 
 ---
 

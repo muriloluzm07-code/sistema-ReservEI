@@ -22,7 +22,7 @@ Toda a fase de ideação, levantamento de requisitos e estrutura do produto foi 
 - **Personas & Entrevistas com Usuários**
 - **Bullseye Framework**
 
-👉 **[Acessar Board de Pesquisa no Miro](https://miro.com/app/board/uXjVGrZ39eA=/?share_link_id=985268310803)**
+ **[Acessar Board de Pesquisa no Miro](https://miro.com/app/board/uXjVGrZ39eA=/?share_link_id=985268310803)**
 
 ---
 
@@ -33,11 +33,11 @@ A interface visual foi desenvolvida priorizando a jornada do usuário na realiza
 - **Prototipagem de Baixa Fidelidade (Wireframes)**
 - **Prototipagem de Alta Fidelidade (Design System & Interface)**
 
-👉 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/design/9sqB3UD3nevmQ0eVgxeWIK/Sistema-ReservEI?m=auto&t=dX4vYFQbFcwSwF92-6)**
+ **[Acessar Protótipo Interativo no Figma](https://www.figma.com/design/9sqB3UD3nevmQ0eVgxeWIK/Sistema-ReservEI?m=auto&t=dX4vYFQbFcwSwF92-6)**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas Utilizadas
+##  Tecnologias & Ferramentas Utilizadas
 
 - **Figma:** Prototipagem visual e testes de usabilidade.
 - **Miro:** Arquitetura da informação e mapeamento da pesquisa UX.
@@ -45,7 +45,7 @@ A interface visual foi desenvolvida priorizando a jornada do usuário na realiza
 
 ---
 
-## 👥 Integrantes do Projeto
+##  Integrantes do Projeto
 
 - Murilo, Kawe, Daniel, Cadu, Vitor e Douglas.
 

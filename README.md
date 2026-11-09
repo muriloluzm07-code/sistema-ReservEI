@@ -1,4 +1,4 @@
-# 🍽️ Sistema Reservei — Protótipo & Modelagem UI/UX
+#  Sistema Reservei — Protótipo & Modelagem UI/UX
 
 > Projeto acadêmico desenvolvido durante o semestre focado no processo completo de Design de Experiência do Usuário (UX) e Prototipagem (UI) para um sistema de gestão de reservas de restaurantes.
 

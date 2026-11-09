@@ -26,7 +26,7 @@ Toda a fase de ideação, levantamento de requisitos e estrutura do produto foi 
 
 ---
 
-## 📱 Protótipo de Alta Fidelidade (Figma)
+##  Protótipo de Alta Fidelidade (Figma)
 
 A interface visual foi desenvolvida priorizando a jornada do usuário na realização e gerenciamento de reservas de forma rápida.
 
@@ -51,6 +51,6 @@ A interface visual foi desenvolvida priorizando a jornada do usuário na realiza
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença [MIT](LICENSE).
